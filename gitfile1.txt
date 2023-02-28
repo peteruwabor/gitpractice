@@ -1,1 +1,1 @@
-I want to test out merging
+I want to test out merging. Now to test merge conflict
